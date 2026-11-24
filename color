@@ -1,0 +1,19 @@
+<html>
+<body>
+
+<h1 style="color:red;">Login Page</h1>
+
+Username:
+<input type="text" placeholder="Enter Username">
+
+<br><br>
+
+Password:
+<input type="password" placeholder="Enter Password">
+
+<br><br>
+
+<button style="color:blue;">Login</button>
+
+</body>
+</html>
